@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435273581735",
+    "project_id": "flutter-update-bced0",
+    "storage_bucket": "flutter-update-bced0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435273581735:android:833c876634d1d214c60782",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435273581735-9cpskguv8m17is0cejurrpo9lr9v96tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoQVbfaRL3cXELo7lIouoI1LqRj1wzKro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435273581735-9cpskguv8m17is0cejurrpo9lr9v96tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
